@@ -11,7 +11,7 @@
 		 // $password = '';
 		 $password = '';
  
-		 $dbname = 'pphim_org_vs2';
+		 $dbname = 'tud_db';
 		 
 		 $con = mysqli_connect($servername,$username,$password,$dbname);
 		 mysqli_set_charset($con, 'UTF8');

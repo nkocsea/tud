@@ -91,7 +91,7 @@
               <button type="button" class="btn btn-sm btn-outline-light" id="xoa_dong" name="xoa_dong" disabled="true">Xóa dòng</button>
             </div>
             <div class="col-md-2 border_button">
-              <a class="btn btn-sm btn-outline-secondary" <?php echo 'href="'.$domain.':90/control.php"'; ?> >Về Control</a>
+              <a class="btn btn-sm btn-outline-secondary" <?php echo 'href="'.$domain.'"'; ?> >Home</a>
               <a class="btn btn-sm btn-outline-warning" href="/logout.php">Đăng Xuất</a>
             </div>
           </div>
