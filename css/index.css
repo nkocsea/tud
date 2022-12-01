@@ -1,0 +1,48 @@
+body{
+	background-color: #fff; 
+	/*background-image:linear-gradient(#eee .1em, transparent .1em);background-size: 100% 1em;*/
+}
+.myheader{
+	/*height: 50px;*/
+	background-color: #528B8B;
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+	color: white;
+	/*max-height: 80px;*/
+	/*overflow: auto;*/
+}
+.mybody{
+	/*margin-top: 80px;*/
+	margin-bottom: 40px;
+}
+.myfooter{
+	height: 40px;
+	background-color: #528B8B;
+	padding-top: 0.3%;
+	margin-bottom: 0.01%;
+}
+.border_button{
+	padding-top: 0.5%;
+	border: 1px;
+	border-style: ridge;
+	padding-bottom: 0.5%;
+}
+.border_1{
+	padding-top: 0.25%;
+	border: 1px;
+	border-style: ridge;
+	padding-bottom: 0.25%;
+}
+.form_coloumn{
+	padding-top: 1%;
+	padding-bottom: 0.5%;
+}
+.totalrecord{
+	color: white;
+}
+.status{
+	color: red;
+}
+#spreadsheet_container{
+	height: 800px;
+}

@@ -1,0 +1,15 @@
+ Record <0> khong du field
+Đã thêm phim:Nhà Trắng Thất Thủ: Kẻ Phản Bội-Angel Has Fallen
+Thêm Phim không thành công: Ten Phim: Thế Giới Tương Lai-Future World ERR:  - Thêm không thành công, lỗi SQL</br>INSERT INTO `video`( `tenvideo`,`tenvideo_en`,`status`,`dienvien`, `theloai`,`quocgia`,`nhasanxuat`, `thoigian`, `chatluong`, `thangnamsanxuat`, `trainler`, `keywork`, `luotxem`, `sotap`, `hashtag`, `stthashtag`,`mota`,`date_up`) values ("Thế Giới Tương Lai","Future World","1","James Franco, Suki Waterhouse, Milla Jovovich","khohocviengtuong,hanhdong,phieuluu","USA","James Franco, Bruce Thierry Cheung","88","HD","052018","","Thế Giới Tương Lai,Future World,James Franco, Suki Waterhouse, Milla Jovovich,khohocviengtuong,hanhdong,phieuluu,USA,James Franco, Bruce Thierry Cheung,","0","1","FuWo","1","Trong phim, Franco đóng vai lãnh chúa (Warlord) một kẻ vô lại tâm thần dùng người đàn bà đẹp robot Ash (Suki Waterhouse) do mình tạo nên làm nô lê tình dục và làm sát thủ cho mình. Nhân vật chính trong phim là Hoàng tử Prince (Jeffrey Wahlberg, cháu của diễn viên Mark Wahlberg, đóng). Ash bất ngờ phản chủ, tham gia với Prince trong cuộc hành trình qua sa mạc với hy vọng tìm được một loại thuốc phép lạ có thể cứu được Nữ hoàng (Lucy Liu đóng), đang chờ chết. Loại thuốc này cất giữ tại một nơi gọi là Paradise Beach do bà trùm ma túy Drug Lord (Milla Jovovich) trấn giữ. Họ bị Warlord cử tay đồ tể Tattooed Face (Cliff "Method Man" Smith) và băng xe máy truy đuổi.
+",now())
+Đã thêm phim:Đêm Ở Trường Học-Night School
+Đã thêm phim:Giải Cứu Trong 15 Phút-15 Minutes of War
+Đã thêm phim:Con Nhà Siêu Giàu Châu Á-Crazy Rich Asians
+Đã thêm phim:Diệp Vấn 3-Ip Man 3
+Đã thêm phim:Tử Địa Báo Thù-Galveston
+Đã thêm phim:Long Đong Lận Đận-Floating City
+Đã thêm phim:Bẫy Tình Yêu (Bản Điện Ảnh)-Cheese in the Trap
+Đã thêm phim:Đảo Săn Mồi-Prey
+Đã thêm phim:Phi Vụ Tốc Độ-Drive
+Đã thêm phim:Truy Tìm Kẻ Sát Nhân 3 (Thuyết Minh)-Voice 3
+Đã thêm phim:Bạn Trai Hiện Đại-Modern Couples
