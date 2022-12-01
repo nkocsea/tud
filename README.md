@@ -15,13 +15,16 @@ SỬ DỤNG
 Đăng nhập bằng:
 
 user: admin
+
 pass: abc
 
 
 1. 
 
 Database: chọn tên CSDL đang có trong mysql : tool tự load những csdl đang có
+
 Table: chọn bảng
+
 Non Select: chọn những field, mặc định để chọn all field
 
 Nhấn tải data vào lưới: dữ liệu sẽ được tải vào khung lưới phía dưới
